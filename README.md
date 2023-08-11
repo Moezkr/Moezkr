@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Track Back**
 
-- 💬 Ask me about **React , Android , Java , C++ , Laravel , Node Js**
+- 💬 Ask me about **React , Android , Java , C++ , Laravel **
 
 - 📫 How to reach me **https://t.me/MoezKr/**
 
